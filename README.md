@@ -39,7 +39,7 @@ Given that only 11% of the dataset included individuals with diabetes, we implem
 <img width="777" alt="Screenshot 2024-08-09 at 08 31 23" src="https://github.com/user-attachments/assets/e9c29738-1e2e-4f57-8a31-db4bac1cfcc8">
 
 
-
+## Output
 
 
 ## Conclusion
